@@ -1,0 +1,19 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": { "navigationBarTitleText": "雀记" }
+		},
+		{
+			"path": "pages/game/game",
+			"style": { "navigationBarTitleText": "房间计分", "enablePullDownRefresh": true }
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "雀记",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#f4f1e8"
+	},
+	"uniIdRouter": {}
+}

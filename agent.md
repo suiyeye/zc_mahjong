@@ -1,0 +1,4 @@
+本项目是一个麻将小程序
+前端使用uni-app，语言使用vue3，ui框架是uni-ui
+后端使用springboot4，使用lombok插件，数据库框架使用mybatis-plus
+数据库使用postgresql
